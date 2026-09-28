@@ -44,6 +44,7 @@ Welcome to the ultimate resource for tournament management! This SEO-friendly re
 | **[Tourney Machine](https://www.tourneymachine.com/)** | Popular tournament operations platform specializing in brackets, live scoring, scheduling, and public event pages. | Starts at approximately $6 per team | Mobile app is free (ad-supported); no organizer free trial | Part of SportsEngine |
 | **[LeagueLobster](https://www.leaguelobster.com/)** | Automated league and tournament scheduling software that generates fixtures and handles complex constraints. | Starts at $9.95/month | Free forever plan for up to 50 games per month | < $1M Revenue |
 | **[BracketHQ](https://brackethq.com/)** | Modern tournament and bracket management tool focused on easy setup, live updates, and participant experience. | Starts at $4/month (Pro Plan) | Free forever plan for up to 32 participants | < $1M Revenue |
+| **[EasyChamp](https://easychamp.com/)** | Multi-sport league and tournament platform with round robin, group stages, single and double elimination, live standings, online registration with entry fees paid to the organizer's own Stripe account, a public league site per competition, and a club app. Also offers free no-login bracket, round-robin and schedule generators. | Club plan $29/month or Event Pass $39 one-time; 2% + $0.45 per paid entry (capped at $10) | Free forever plan with unlimited competitions; go live with up to 8 teams per competition | < $1M Revenue |
 
 ## 💻 Open-Source GitHub Projects
 
